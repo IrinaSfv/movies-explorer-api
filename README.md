@@ -3,9 +3,9 @@ Backend часть приложения для поиска фильмов.
 
 ## Ссылки на проект
 
-IP ..
+IP 158.160.28.96
 
-Backend ..
+Backend https://api.movies.irinasfv.nomoredomains.rocks
 
 ### Функциональность
 * Получение и обработка запросов с frontend части приложения.
