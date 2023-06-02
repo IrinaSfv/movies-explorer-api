@@ -1,9 +1,9 @@
 // Массив доменов, с которых разрешены кросс-доменные запросы
 const allowedCors = [
-  'https://movies.irinasfv.nomoredomains.rocks',
-  'http://movies.irinasfv.nomoredomains.rocks',
+  // 'https://movies.irinasfv.nomoredomains.rocks',
+  // 'http://movies.irinasfv.nomoredomains.rocks',
   'https://api.movies.irinasfv.nomoredomains.rocks',
-  'http:/api.movies.irinasfv.nomoredomains.rocks',
+  'http://api.movies.irinasfv.nomoredomains.rocks',
   'https://localhost:3000',
   'http://localhost:3000',
 ];
